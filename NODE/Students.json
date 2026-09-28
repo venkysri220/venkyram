@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "age": 20,
+      "gender": "Male",
+      "course": "Computer Science",
+      "year": 2,
+      "email": "rahul@example.com",
+      "marks": 85
+    },
+    {
+      "id": 2,
+      "name": "Priya Patel",
+      "age": 19,
+      "gender": "Female",
+      "course": "Information Technology",
+      "year": 2,
+      "email": "priya@example.com",
+      "marks": 91
+    },
+    {
+      "id": 3,
+      "name": "Arjun Kumar",
+      "age": 21,
+      "gender": "Male",
+      "course": "Mechanical Engineering",
+      "year": 3,
+      "email": "arjun@example.com",
+      "marks": 78
+    }
+  ]
