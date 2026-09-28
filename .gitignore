@@ -1,3 +1,4 @@
 MONGO/
 node_modules/
 .env
+NODE/
